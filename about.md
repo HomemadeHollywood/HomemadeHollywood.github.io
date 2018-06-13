@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We're a couple of friends pitching each other some movie ideas. Some are good. Some are bad. All are recorded.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+If you want to know more about the star studded cast, look no further.
+
+Tanner - tall guy
+Devin - beard and long hair guy
+Connor - video game guy
+Charlie - other beard guy but with shorter hair than previous beard guy
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[homemadehollywoodpodcast@gmail.com](mailto:homemadehollywoodpodcast@gmail.com)
