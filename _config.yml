@@ -16,7 +16,7 @@ description:    "A podcast where a couple of guys sit around and try to sell eac
 subtitle:       "The boys pitch some movies"
 url:            http://homemadehollywood.github.io
 lang:           en-us
-author:         Tanner Embry
+author:         Homemade Hollywood
 copyright:      "&#x2117; &amp; &#xA9; 2018"
 
 #
@@ -38,6 +38,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  podcast: homemade-hollywood/id1398621047
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
