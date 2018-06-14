@@ -10,10 +10,10 @@ We're a couple of friends pitching each other some movie ideas. Some are good. S
 
 If you want to know more about the star studded cast, look no further.
 
-Tanner - tall guy
-Devin - beard and long hair guy
-Connor - video game guy
-Charlie - other beard guy but with shorter hair than previous beard guy
+Tanner - tall guy  
+Devin - beard and long hair guy  
+Connor - video game guy  
+Charlie - other beard guy but with shorter hair than previous beard guy  
 
 ### Contact me
 
